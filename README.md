@@ -14,7 +14,7 @@ Trabajo con Java/Spring Boot, NestJS y React en el día a día, y últimamente e
 
 ---
 
-**Actualmente construyendo [Selekt.ia](https://github.com/brayanMontoya-coder)**
+**Actualmente construyendo [Selekt.ia](https://selektia-qa.up.railway.app/)**
 
 Muchas empresas todavía reclutan sin herramientas que estén a la altura del proceso. Selekt.ia es mi intento de cambiar eso — una plataforma que usa IA y búsqueda semántica para que los reclutadores encuentren al candidato correcto sin depender solo de palabras clave.
 
