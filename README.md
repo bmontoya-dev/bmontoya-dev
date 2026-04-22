@@ -38,6 +38,6 @@ Stack: NestJS · React · PostgreSQL + pgvector · n8n · Railway
 
 <div align="center">
 
-![Brayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=brayanMontoya-coder&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Brayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmontoya-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 
 </div>
